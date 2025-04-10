@@ -1,8 +1,6 @@
-# ChainWatch AI
+# FinCrypt.ai
 
-![tag : innovationlab](https://img.shields.io/badge/innovationlab-3D8BD3)
-
-ChainWatch AI is a modular suite of specialized AI agents designed for real-time crypto data and news. Developed for the Fetch.ai Hackathon at Techkriti'25, IIT Kanpur, it demonstrates how multiple microservices can work together to deliver actionable insights. The project now supports querying the price of any cryptocurrency (e.g., BTC, ETH, LTC) and aggregates crypto news using live APIs.
+FinCrypt.ai is a modular suite of specialized AI agents designed for real-time crypto data and news. Developed for the Fetch.ai Hackathon, it demonstrates how multiple microservices can work together to deliver actionable insights. The project now supports querying the price of any cryptocurrency (e.g., BTC, ETH, LTC) and aggregates crypto news using live APIs.
 
 ## Agents Overview
   
@@ -46,8 +44,8 @@ Open `index.html` via a local server (e.g., using `python3 -m http.server 5500`)
 ## Installation
 
 1. **Clone the Repository:**
-   git clone https://github.com/Towaiji/chainwatch-ai.git
-   cd chainwatch-ai
+   git clone https://github.com/shreyazh/FinCrypt.ai.git
+   cd FinCrypt.ai
 Set Up a Virtual Environment (Recommended):
 
 python3 -m venv venv
